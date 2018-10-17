@@ -1,0 +1,4 @@
+ServerLog
+16:06:02 Tokopedia AutoPromo server initializing...
+16:06:02 Database connection established
+
